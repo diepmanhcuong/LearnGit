@@ -1,4 +1,8 @@
 ﻿
 không nên push trên branch master
 dùng fetch để đọc nội dung mà không cần merge
+<<<<<<< HEAD
 bản chất của câu lên git pull origin master là gộp 2 câu lệnh git fetch origin master và git merge origin master
+=======
+bản chất của câu lên git pull origin master là gộp 2 câu lệnh git fetch origin master và git merge origin masterú
+>>>>>>> branch1
