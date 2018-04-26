@@ -1,4 +1,9 @@
 ﻿abc
 Diệp Mạnh Cường
+<<<<<<< HEAD
 huy chó đẻ
 huy chó đẻ 2
+=======
+huy nghiệt súc
+huy chó
+>>>>>>> branch1
